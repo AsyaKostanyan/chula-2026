@@ -110,7 +110,7 @@ Open-economy extension of the ENDOCRED model.
 ---
 
 <p align="center">
-  <img src="Logo-New-White-no-text-no-bg.png" alt="The Better Policy Project logo" width="120">
+  <img src="Logo-New-White-no-text-no-bg.png" alt="The Better Policy Project logo" width="80">
 </p>
 
 <p align="center"><em>The Better Policy Project</em></p>
