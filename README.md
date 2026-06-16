@@ -27,13 +27,13 @@ quarterly projection models, and the Dynare/Julia toolchain.
 
 📁 [FPAS Mark II - Week 1](FPAS%20Mark%20II%20-%20Week%201)
 
-| Topic | Slides (PDF) | Slides (PPTX) |
-| --- | --- | --- |
-| FPAS overview — Dynare & Julia | [PDF](FPAS%20Mark%20II%20-%20Week%201/Week1_DynareJulia_FPAS.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%201/Week1_DynareJulia_FPAS.pptx) |
-| Day 2 — Framework | [PDF](FPAS%20Mark%20II%20-%20Week%201/Day2_Framework.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%201/Day2_Framework.pptx) |
-| Day 3 — QPMs | [PDF](FPAS%20Mark%20II%20-%20Week%201/Day3_QPMs.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%201/Day3_QPMs.pptx) |
-| Day 4 — Dynare & Julia | [PDF](FPAS%20Mark%20II%20-%20Week%201/Day4_DynareJulia.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%201/Day4_DynareJulia.pptx) |
-| Day 5 — Capstone | [PDF](FPAS%20Mark%20II%20-%20Week%201/Day5_Capstone.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%201/Day5_Capstone.pptx) |
+| Topic | Slides (PDF) |
+| --- | --- |
+| FPAS overview — Dynare & Julia | [PDF](FPAS%20Mark%20II%20-%20Week%201/Week1_DynareJulia_FPAS.pdf) |
+| Day 2 — Framework | [PDF](FPAS%20Mark%20II%20-%20Week%201/Day2_Framework.pdf) |
+| Day 3 — QPMs | [PDF](FPAS%20Mark%20II%20-%20Week%201/Day3_QPMs.pdf) |
+| Day 4 — Dynare & Julia | [PDF](FPAS%20Mark%20II%20-%20Week%201/Day4_DynareJulia.pdf) |
+| Day 5 — Capstone | [PDF](FPAS%20Mark%20II%20-%20Week%201/Day5_Capstone.pdf) |
 
 ### Week 2 — FPAS Mark II (June 15–19)
 
@@ -42,16 +42,16 @@ taxonomy, policy trade-offs, and monetary policy report communication.
 
 📁 [FPAS Mark II - Week 2](FPAS%20Mark%20II%20-%20Week%202)
 
-| Topic | Slides (PDF) | Slides (PPTX) |
-| --- | --- | --- |
-| Day 1 — Current Conditions | [PDF](FPAS%20Mark%20II%20-%20Week%202/Week2_Day1_CurrentConditions.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%202/Week2_Day1_CurrentConditions.pptx) |
-| Day 2 — Market Reference (Case A/B) | [PDF](FPAS%20Mark%20II%20-%20Week%202/Week2_Day2_MarketReference_CaseAB.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%202/Week2_Day2_MarketReference_CaseAB.pptx) |
-| Day 3 — Taxonomy of Risks | [PDF](FPAS%20Mark%20II%20-%20Week%202/Week2_Day3_Taxonomy_Risks.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%202/Week2_Day3_Taxonomy_Risks.pptx) |
-| Day 4 — Trade-offs (Dynare & Julia) | [PDF](FPAS%20Mark%20II%20-%20Week%202/Week2_Day4_Tradeoffs_DynareJulia.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%202/Week2_Day4_Tradeoffs_DynareJulia.pptx) |
-| Day 5 — MPR & Communication | [PDF](FPAS%20Mark%20II%20-%20Week%202/Week2_Day5_MPR_Communication.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%202/Week2_Day5_MPR_Communication.pptx) |
-| NTSPI Methodology | [PDF](FPAS%20Mark%20II%20-%20Week%202/NTSPI_Methodology_1.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%202/NTSPI_Methodology_1.pptx) |
-| Risk-Adjusted UIP | [PDF](FPAS%20Mark%20II%20-%20Week%202/Risk-Adjusted%20UIP.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%202/Risk-Adjusted%20UIP.pptx) |
-| Open ENDOCRED — Armenia | [PDF](FPAS%20Mark%20II%20-%20Week%202/Open_ENDOCRED_Armenia_1.pdf) | [PPTX](FPAS%20Mark%20II%20-%20Week%202/Open_ENDOCRED_Armenia_1.pptx) |
+| Topic | Slides (PDF) |
+| --- | --- |
+| Day 1 — Current Conditions | [PDF](FPAS%20Mark%20II%20-%20Week%202/Week2_Day1_CurrentConditions.pdf) |
+| Day 2 — Market Reference (Case A/B) | [PDF](FPAS%20Mark%20II%20-%20Week%202/Week2_Day2_MarketReference_CaseAB.pdf) |
+| Day 3 — Taxonomy of Risks | [PDF](FPAS%20Mark%20II%20-%20Week%202/Week2_Day3_Taxonomy_Risks.pdf) |
+| Day 4 — Trade-offs (Dynare & Julia) | [PDF](FPAS%20Mark%20II%20-%20Week%202/Week2_Day4_Tradeoffs_DynareJulia.pdf) |
+| Day 5 — MPR & Communication | [PDF](FPAS%20Mark%20II%20-%20Week%202/Week2_Day5_MPR_Communication.pdf) |
+| NTSPI Methodology | [PDF](FPAS%20Mark%20II%20-%20Week%202/NTSPI_Methodology_1.pdf) |
+| Risk-Adjusted UIP | [PDF](FPAS%20Mark%20II%20-%20Week%202/Risk-Adjusted%20UIP.pdf) |
+| Open ENDOCRED — Armenia | [PDF](FPAS%20Mark%20II%20-%20Week%202/Open_ENDOCRED_Armenia_1.pdf) |
 
 ---
 
@@ -109,4 +109,8 @@ Open-economy extension of the ENDOCRED model.
 
 ---
 
-*The Better Policy Project*
+<p align="center">
+  <img src="Logo-New-White-no-text-no-bg.png" alt="The Better Policy Project logo" width="120">
+</p>
+
+<p align="center"><em>The Better Policy Project</em></p>
