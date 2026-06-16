@@ -1,0 +1,28 @@
+Starting Dynare (version 7.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ... 
+Ramsey Problem: added 36 multipliers. 
+Substitution of endo leads >= 2: added 113 auxiliary variables and equations. 
+Substitution of endo lags >= 2: added 207 auxiliary variables and equations. 
+Found 36 equation(s). 
+Found 393 FOC equation(s) for Ramsey Problem. 
+Evaluating expressions... 
+Computing static model derivatives (order 1). 
+Normalizing the static model... 
+Normalization failed with cutoff, trying symbolic normalization... 
+Finding the optimal block decomposition of the static model... 
+51 block(s) found: 
+  48 recursive block(s) and 3 simultaneous block(s). 
+  the largest simultaneous block has 102 equation(s) 
+                                 and 102 feedback variable(s). 
+Computing dynamic model derivatives (order 1). 
+Normalizing the dynamic model... 
+Finding the optimal block decomposition of the dynamic model... 
+90 block(s) found: 
+  89 recursive block(s) and 1 simultaneous block(s). 
+  the largest simultaneous block has 150 equation(s) 
+                                 and 150 feedback variable(s). 
+Computing planner objective derivatives (order 1). 
+terminate called after throwing an instance of 'std::filesystem::__cxx11::filesystem_error' 
+  what():  filesystem error: cannot rename: Input/output error [+Case_A_v1\+block] [vWo0bIVdyd] 
+Preprocessing time: 0h00m04s.

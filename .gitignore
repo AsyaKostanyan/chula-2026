@@ -1,0 +1,20 @@
+# Dynare / MATLAB generated artifacts
+*.asv
+*+.m
++*/
+*_set_auxiliary_variables.m
+*_dynamic.m
+*_static.m
+*.jnl
+Output/
+*.eps
+
+# Julia
+Manifest.toml
+.julia/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
