@@ -105,7 +105,17 @@ Open-economy extension of the ENDOCRED model.
 
 ### DSGE — Week 2
 
-📁 [DSGE - Week 2](DSGE%20-%20Week%202) — *materials to be added.*
+Lecture slides introducing DSGE modeling, stock-flow accounting, the AM/PM framework,
+and the IMF's Global Integrated Monetary and Fiscal (GIMF) model.
+
+📁 [DSGE - Week 2](DSGE%20-%20Week%202)
+
+| Topic | Slides (PDF) |
+| --- | --- |
+| DSGE — Overview | [PDF](DSGE%20-%20Week%202/Week2_DSGE_0_Overview.pdf) |
+| Stock-Flow Accounting | [PDF](DSGE%20-%20Week%202/Stock_flow.pdf) |
+| AM/PM II | [PDF](DSGE%20-%20Week%202/AMPM%20II%20emc.pdf) |
+| GIMF | [PDF](DSGE%20-%20Week%202/Week2_DSGE_GIMF.pdf) |
 
 ---
 
