@@ -9,6 +9,9 @@ modeling.
 > **Thank you** to everyone who participated in this course and helped make it
 > unforgettable.
 
+For questions and inquiries, contact **Asya Kostanyan** at
+[asyakostanyan@thebetterpolicyproject.org](mailto:asyakostanyan@thebetterpolicyproject.org).
+
 ---
 
 ## How to use this repository
