@@ -6,6 +6,9 @@ This repository contains the lecture slides, Dynare/Julia model files, and suppo
 material for the two-week course on next-generation monetary policy frameworks and
 modeling.
 
+> **Thank you** to everyone who participated in this course and helped make it
+> unforgettable.
+
 ---
 
 ## How to use this repository
@@ -20,7 +23,7 @@ modeling.
 
 ## Course schedule and sessions
 
-### Week 1 — FPAS Mark II (June 8–12)
+### Week 1 — FPAS Mark II (June 8–12) {#week-1}
 
 Lecture slides introducing the Forecasting and Policy Analysis System (FPAS Mark II),
 quarterly projection models, and the Dynare/Julia toolchain.
@@ -35,7 +38,7 @@ quarterly projection models, and the Dynare/Julia toolchain.
 | Day 4 — Dynare & Julia | [PDF](FPAS%20Mark%20II%20-%20Week%201/Day4_DynareJulia.pdf) |
 | Day 5 — Capstone | [PDF](FPAS%20Mark%20II%20-%20Week%201/Day5_Capstone.pdf) |
 
-### Week 2 — FPAS Mark II (June 15–19)
+### Week 2 — FPAS Mark II (June 15–19) {#week-2}
 
 Lecture slides covering current conditions assessment, market reference forecasts, risk
 taxonomy, policy trade-offs, and monetary policy report communication.
@@ -54,7 +57,7 @@ taxonomy, policy trade-offs, and monetary policy report communication.
 | Open ENDOCRED — Armenia | [PDF](FPAS%20Mark%20II%20-%20Week%202/Open_ENDOCRED_Armenia_1.pdf) |
 | Czech FX Interventions | [PDF](FPAS%20Mark%20II%20-%20Week%201/Czech_FX_Interventions.pdf) |
 
-### Building Risk Scenarios
+### Building Risk Scenarios {#building-risk-scenarios}
 
 Supporting material on constructing and calibrating risk scenarios in FPAS Mark II.
 
@@ -71,7 +74,7 @@ Supporting material on constructing and calibrating risk scenarios in FPAS Mark 
 
 ---
 
-## Hands-on model files
+## Hands-on model files {#hands-on}
 
 Dynare model files (`.mod`), Julia scripts (`.jl`), MATLAB simulation sheets (`.m`), and
 solver logs (`.log`) used in the lab sessions. Open `.mod` files with **Dynare** and
