@@ -52,6 +52,22 @@ taxonomy, policy trade-offs, and monetary policy report communication.
 | NTSPI Methodology | [PDF](FPAS%20Mark%20II%20-%20Week%202/NTSPI_Methodology_1.pdf) |
 | Risk-Adjusted UIP | [PDF](FPAS%20Mark%20II%20-%20Week%202/Risk-Adjusted%20UIP.pdf) |
 | Open ENDOCRED — Armenia | [PDF](FPAS%20Mark%20II%20-%20Week%202/Open_ENDOCRED_Armenia_1.pdf) |
+| Czech FX Interventions | [PDF](FPAS%20Mark%20II%20-%20Week%201/Czech_FX_Interventions.pdf) |
+
+### Building Risk Scenarios
+
+Supporting material on constructing and calibrating risk scenarios in FPAS Mark II.
+
+📁 [Building Risk Scenarios](Building%20Risk%20Scenarios)
+
+| Topic | Slides (PDF) |
+| --- | --- |
+| Cases | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_Cases.pdf) |
+| Nowcast Cases | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_now_cases.pdf) |
+| Market Reference Scenario | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_MRS.pdf) |
+| Calibration | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_calibration.pdf) |
+| Sticky | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_sticky.pdf) |
+| Combined | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_combined.pdf) |
 
 ---
 
