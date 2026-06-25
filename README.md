@@ -114,7 +114,7 @@ and the IMF's Global Integrated Monetary and Fiscal (GIMF) model.
 | --- | --- |
 | DSGE — Overview | [PDF](DSGE%20-%20Week%202/Week2_DSGE_0_Overview.pdf) |
 | Stock-Flow Accounting | [PDF](DSGE%20-%20Week%202/Stock_flow.pdf) |
-| AM/PM II | [PDF](DSGE%20-%20Week%202/AMPM%20II%20emc.pdf) |
+| Designing Models for Macroprudential Policy Analysis | [PDF](DSGE%20-%20Week%202/AMPM%20II%20emc.pdf) |
 | GIMF | [PDF](DSGE%20-%20Week%202/Week2_DSGE_GIMF.pdf) |
 
 ---
