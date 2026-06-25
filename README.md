@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="Logo-New-White-no-text-no-bg.png" alt="The Better Policy Project logo" height="90">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="chula_logo.png" alt="Chulalongkorn University logo" height="90">
-</p>
-
 # Next Generation of Policy Frameworks and Modeling
 
 **June 8–19, 2026 · Chulalongkorn University · Bangkok, Thailand**
@@ -149,5 +143,11 @@ Open-economy extension of the ENDOCRED model.
 | [simulation_sheet.m](Open_Economy_Endocred/simulation_sheet.m) | MATLAB simulation sheet |
 
 ---
+
+<p align="center">
+  <img src="Logo-New-White-no-text-no-bg.png" alt="The Better Policy Project logo" height="90">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="chula_logo.png" alt="Chulalongkorn University logo" height="90">
+</p>
 
 <p align="center"><em>The Better Policy Project · Chulalongkorn University</em></p>
