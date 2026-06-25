@@ -125,7 +125,7 @@ Open-economy extension of the ENDOCRED model.
 | [Endocred_Open_Test_v2.mod](Open_Economy_Endocred/Endocred_Open_Test_v2.mod) | Open-economy ENDOCRED model (test v2) |
 | [simulation_sheet.m](Open_Economy_Endocred/simulation_sheet.m) | MATLAB simulation sheet |
 
-### DSGE — Week 2
+### Week 2 — DSGE Models for Monetary and Fiscal Policy {#dsge-week-2}
 
 Lecture slides introducing DSGE modeling, stock-flow accounting, the AM/PM framework,
 and the IMF's Global Integrated Monetary and Fiscal (GIMF) model.
