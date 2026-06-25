@@ -77,6 +77,9 @@ Dynare model files (`.mod`), Julia scripts (`.jl`), MATLAB simulation sheets (`.
 solver logs (`.log`) used in the lab sessions. Open `.mod` files with **Dynare** and
 `.jl` files with **Julia**.
 
+This work is done in **DynareJulia**. For setup and usage, see the
+[DynareJulia User Guide](https://asyakostanyan.github.io/DynareJulia-User-Guide/).
+
 ### Simple ENDOCRED
 
 A minimal closed-economy model with endogenous credibility.
@@ -97,15 +100,15 @@ Case A/B exercises.
 
 | File | Description |
 | --- | --- |
-| [simple_linear.mod](Linear_ENDOCRED/simple_linear.mod) · [log](Linear_ENDOCRED/simple_linear.log) | Linear ENDOCRED model |
-| [simple_linear_endog.mod](Linear_ENDOCRED/simple_linear_endog.mod) · [log](Linear_ENDOCRED/simple_linear_endog.log) | Linear model with endogenous credibility |
-| [simple_ENDOCRED.mod](Linear_ENDOCRED/simple_ENDOCRED.mod) · [log](Linear_ENDOCRED/simple_ENDOCRED.log) | Baseline simple ENDOCRED model |
-| [endocred_nonlinear_v1.mod](Linear_ENDOCRED/endocred_nonlinear_v1.mod) · [log](Linear_ENDOCRED/endocred_nonlinear_v1.log) | Non-linear ENDOCRED model (v1) |
-| [Market_Reference.mod](Linear_ENDOCRED/Market_Reference.mod) · [log](Linear_ENDOCRED/Market_Reference.log) | Market reference forecast |
-| [Market_Reference_v1.mod](Linear_ENDOCRED/Market_Reference_v1.mod) · [log](Linear_ENDOCRED/Market_Reference_v1.log) | Market reference (v1) |
-| [Market_Reference_v2.mod](Linear_ENDOCRED/Market_Reference_v2.mod) · [log](Linear_ENDOCRED/Market_Reference_v2.log) | Market reference (v2) |
-| [Case_A_v1.mod](Linear_ENDOCRED/Case_A_v1.mod) · [log](Linear_ENDOCRED/Case_A_v1.log) | Case A exercise (v1) |
-| [Case_B_v1.mod](Linear_ENDOCRED/Case_B_v1.mod) · [log](Linear_ENDOCRED/Case_B_v1.log) | Case B exercise (v1) |
+| [simple_linear.mod](Linear_ENDOCRED/simple_linear.mod) | Linear ENDOCRED model |
+| [simple_linear_endog.mod](Linear_ENDOCRED/simple_linear_endog.mod) | Linear model with endogenous credibility |
+| [simple_ENDOCRED.mod](Linear_ENDOCRED/simple_ENDOCRED.mod) | Baseline simple ENDOCRED model |
+| [endocred_nonlinear_v1.mod](Linear_ENDOCRED/endocred_nonlinear_v1.mod) | Non-linear ENDOCRED model (v1) |
+| [Market_Reference.mod](Linear_ENDOCRED/Market_Reference.mod) | Market reference forecast |
+| [Market_Reference_v1.mod](Linear_ENDOCRED/Market_Reference_v1.mod) | Market reference (v1) |
+| [Market_Reference_v2.mod](Linear_ENDOCRED/Market_Reference_v2.mod) | Market reference (v2) |
+| [Case_A_v1.mod](Linear_ENDOCRED/Case_A_v1.mod) | Case A exercise (v1) |
+| [Case_B_v1.mod](Linear_ENDOCRED/Case_B_v1.mod) | Case B exercise (v1) |
 | [simulation_sheet.m](Linear_ENDOCRED/simulation_sheet.m) | MATLAB simulation sheet |
 
 ### Open Economy ENDOCRED
