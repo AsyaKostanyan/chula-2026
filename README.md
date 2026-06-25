@@ -72,6 +72,20 @@ Supporting material on constructing and calibrating risk scenarios in FPAS Mark 
 | Measures of Underlying Inflation | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_sticky.pdf) |
 | Developing FPAS Mark II at the Central Bank of Armenia | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_combined.pdf) |
 
+### Week 2 — DSGE Models for Monetary and Fiscal Policy {#dsge-week-2}
+
+Lecture slides introducing DSGE modeling, stock-flow accounting, the AM/PM framework,
+and the IMF's Global Integrated Monetary and Fiscal (GIMF) model.
+
+📁 [DSGE - Week 2](DSGE%20-%20Week%202)
+
+| Topic | Slides (PDF) |
+| --- | --- |
+| DSGE — Overview | [PDF](DSGE%20-%20Week%202/Week2_DSGE_0_Overview.pdf) |
+| Stock-Flow Accounting | [PDF](DSGE%20-%20Week%202/Stock_flow.pdf) |
+| Designing Models for Macroprudential Policy Analysis | [PDF](DSGE%20-%20Week%202/AMPM%20II%20emc.pdf) |
+| GIMF | [PDF](DSGE%20-%20Week%202/Week2_DSGE_GIMF.pdf) |
+
 ---
 
 ## Hands-on model files {#hands-on}
@@ -124,20 +138,6 @@ Open-economy extension of the ENDOCRED model.
 | --- | --- |
 | [Endocred_Open_Test_v2.mod](Open_Economy_Endocred/Endocred_Open_Test_v2.mod) | Open-economy ENDOCRED model (test v2) |
 | [simulation_sheet.m](Open_Economy_Endocred/simulation_sheet.m) | MATLAB simulation sheet |
-
-### Week 2 — DSGE Models for Monetary and Fiscal Policy {#dsge-week-2}
-
-Lecture slides introducing DSGE modeling, stock-flow accounting, the AM/PM framework,
-and the IMF's Global Integrated Monetary and Fiscal (GIMF) model.
-
-📁 [DSGE - Week 2](DSGE%20-%20Week%202)
-
-| Topic | Slides (PDF) |
-| --- | --- |
-| DSGE — Overview | [PDF](DSGE%20-%20Week%202/Week2_DSGE_0_Overview.pdf) |
-| Stock-Flow Accounting | [PDF](DSGE%20-%20Week%202/Stock_flow.pdf) |
-| Designing Models for Macroprudential Policy Analysis | [PDF](DSGE%20-%20Week%202/AMPM%20II%20emc.pdf) |
-| GIMF | [PDF](DSGE%20-%20Week%202/Week2_DSGE_GIMF.pdf) |
 
 ---
 
