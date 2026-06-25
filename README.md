@@ -62,12 +62,12 @@ Supporting material on constructing and calibrating risk scenarios in FPAS Mark 
 
 | Topic | Slides (PDF) |
 | --- | --- |
-| Cases | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_Cases.pdf) |
-| Nowcast Cases | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_now_cases.pdf) |
+| FPAS Mark 2 Current Analysis and Constructing Scenarios | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_Cases.pdf) |
+| FPAS Mark 2 Current Analysis and Constructing Scenarios | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_now_cases.pdf) |
 | Market Reference Scenario | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_MRS.pdf) |
 | Calibration | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_calibration.pdf) |
-| Sticky | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_sticky.pdf) |
-| Combined | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_combined.pdf) |
+| Measures of Underlying Inflation | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_sticky.pdf) |
+| Developing FPAS Mark II at the Central Bank of Armenia | [PDF](Building%20Risk%20Scenarios/FPAS_MarkII_combined.pdf) |
 
 ---
 
